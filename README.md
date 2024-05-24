@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Meu nome é Giovanna;
+Estou estudando na Alura e me desenvolvendo na linguagem JavaScript;
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
 **giih011/giih011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
