@@ -1,4 +1,4 @@
-## Hi there 👋
+## OII! 👋
 Meu nome é Giovanna;
 Estou estudando na Alura e me desenvolvendo na linguagem JavaScript;
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
